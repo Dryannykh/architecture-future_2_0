@@ -1,0 +1,70 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Страница — 1" id="p48c2CenUnPwpt-sFInr">
+    <mxGraphModel dx="1042" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="IQ6Q1xgj_nRfDLudiaz2-1" target="IQ6Q1xgj_nRfDLudiaz2-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-23" value="Анонимизированные&lt;div&gt;медицинские&lt;br&gt;&lt;div&gt;данные,&lt;/div&gt;&lt;/div&gt;&lt;div&gt;снимки&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IQ6Q1xgj_nRfDLudiaz2-13" vertex="1" connectable="0">
+          <mxGeometry x="0.0343" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-1" value="ИИ домен" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IQ6Q1xgj_nRfDLudiaz2-2" target="IQ6Q1xgj_nRfDLudiaz2-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-19" value="Данные" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IQ6Q1xgj_nRfDLudiaz2-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.0613" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-2" value="Брокер сообщений" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="IQ6Q1xgj_nRfDLudiaz2-3" target="IQ6Q1xgj_nRfDLudiaz2-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-21" value="Финансовые&lt;div&gt;данные&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IQ6Q1xgj_nRfDLudiaz2-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.0217" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-3" value="Финтех домен" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-4" value="Аналитический домен" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IQ6Q1xgj_nRfDLudiaz2-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-16" value="Медицинские данные,&lt;div&gt;снимки&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IQ6Q1xgj_nRfDLudiaz2-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.292" y="-4" relative="1" as="geometry">
+            <mxPoint x="4" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-6" value="Медицинский домен" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="IQ6Q1xgj_nRfDLudiaz2-8" target="IQ6Q1xgj_nRfDLudiaz2-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-20" value="Внутренние финансовые&lt;div&gt;данные, управление&lt;/div&gt;&lt;div&gt;клиниками и т.д.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IQ6Q1xgj_nRfDLudiaz2-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.0117" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ6Q1xgj_nRfDLudiaz2-8" value="Внутренний&lt;div&gt;домен&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
